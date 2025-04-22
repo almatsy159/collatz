@@ -51,11 +51,7 @@ Explorer la conjecture de Syracuse à travers une approche combinatoire et struc
 
 ---
 
-## 🔗 Lien du dépôt
 
-👉 [github.com/almatsy159/syracuse](https://github.com/almatsy159/syracuse)
-
----
 
 ## ✨ Auteur
 
